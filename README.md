@@ -1,2 +1,3 @@
 # MyBAT-CMD
 MyBAT-CMD
+> bat-cmd 语法简单使用...
